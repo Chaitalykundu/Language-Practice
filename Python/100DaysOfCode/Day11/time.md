@@ -1,0 +1,2 @@
+- strftime() is a Python date method you can use to convert dates to strings.
+- It doesn't just convert to strings, but also allows you to format your dates in a readable way.
