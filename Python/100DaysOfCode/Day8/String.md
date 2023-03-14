@@ -21,3 +21,13 @@ ut labore et dolore magna aliqua."""
 
 print(a)
 ```
+
+&nbsp;
+
+&nbsp;
+
+- Strings are immutable
+
+### immutable
+
+Immutable means **_unchanged_**. If we declare any string and change any charracter, then the main string will remain unchanged.

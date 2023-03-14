@@ -1,0 +1,2 @@
+- for loops can iterate over a sequence of iterable objects in python.
+- Iterating over a sequence is nothing but iterating over strings, lists, tuples, sets and dictionaries.
