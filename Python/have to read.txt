@@ -1,1 +1,2 @@
-do while loop
+* do while loop
+* function argument

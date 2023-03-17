@@ -209,7 +209,7 @@
 
 ## istitle()
 
-- The istitile() returns True only if the first letter of each word of the string is capitalized, else it returns False.
+- The istitle() returns True only if the first letter of each word of the string is capitalized, else it returns False.
 
 - Syntax :
 
