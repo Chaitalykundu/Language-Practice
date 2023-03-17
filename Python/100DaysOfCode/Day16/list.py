@@ -4,5 +4,5 @@ print(lst1)
 print(lst2)
 
 
-details = ["Abhijeet", 18, "FYBScIT", 9.8]
+details = ["Abhijeet", 18, "FYBScIT", 9.8, True]
 print(details)
