@@ -56,7 +56,18 @@
 ```
 
 &nbsp;
+
+## 5. Inverted Odd triangle
+
+```
+*******
+ *****
+  ***
+   *
+```
+
 &nbsp;
+
 &nbsp;
 
 ## Butterfly pattern
