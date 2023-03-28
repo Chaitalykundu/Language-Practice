@@ -1,23 +1,30 @@
 /* Author : Chaitaly Kundu
-   Date : 14th june 2021 */
+   Date : 27th March, 2023 */
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-    int i,j, row, col;
-    cout << "Enter the no. of row and column: ";
-    cin >> row >> col ;
-
-    for(i=1;i<=row;i++)
+void pattern(int row, int col)
+{
+    for (int i = 1; i <= row; i++)
     {
-        for(j=1;j<=col;j++)
+        for (int j = 1; j <= col; j++)
         {
-            cout << "* " ;
+            cout << "* ";
         }
-    cout << endl;
+        cout << endl;
     }
+}
+
+int main()
+{
+    int row, col;
+    cout << "Enter the no. of row and column: ";
+    cin >> row >> col;
+
+    pattern(row, col);
+
     return 0;
 }
 

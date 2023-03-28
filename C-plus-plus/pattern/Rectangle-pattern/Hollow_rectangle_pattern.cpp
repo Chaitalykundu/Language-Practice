@@ -1,34 +1,36 @@
 /* Author : Chaitaly Kundu
    Date : 14th june 2021 */
 
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-    int row, col;
-    cout << "Enter the no. of row and column: ";
-    cin >> row >> col ;
-
-    for(int i=1;i<=row;i++)
+void printPattern(int r, int c)
+{
+    // Write Your Code here
+    for (int i = 1; i <= r; i++)
     {
-        for(int j=1;j<=col;j++)
+        for (int j = 1; j <= c; j++)
         {
-            if(i==1 || i == row)
+            if (i == 1 || i == r || j == 1 || j == c)
                 cout << "* ";
-            else{
-                if(j==1 || j==col)
-                    cout << "* ";
-                else
-                    cout << "  ";
-            }
+            else
+                cout << "  ";
         }
-        cout << endl ;
+        cout << endl;
     }
-    return 0;
 }
 
+int main()
+{
+    int row, col;
+    cout << "Enter the no. of row & col : ";
+    cin >> row >> col;
 
+    printPattern(row, col);
+
+    return 0;
+}
 
 /*  O/P:
 

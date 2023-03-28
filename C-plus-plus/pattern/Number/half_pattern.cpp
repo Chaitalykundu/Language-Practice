@@ -1,19 +1,19 @@
 /* Author : Chaitaly Kundu
    Date : 18th june 2021 */
 
-
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main(){
-    int i,j,n;
+int main()
+{
+    int i, j, n;
     cout << "Enter the number of rows: ";
     cin >> n;
 
-    for(int i=1;i<=n;i++)
+    for (int i = 1; i <= n; i++)
     {
-        for(int j=1;j<=i;j++)
+        for (int j = 1; j <= i; j++)
         {
             cout << j << " ";
         }
