@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    int row, col;
+    int row;
     cout << "Enter the no. of row : ";
     cin >> row;
     for (int i = 1; i <= row; i++)
@@ -29,6 +29,5 @@ Enter the no. of row : 4
 * *
 * * *
 * * * *
-
 
 */

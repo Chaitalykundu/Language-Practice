@@ -5,13 +5,10 @@
 
 using namespace std;
 
-int main()
+void printPattern(int r)
 {
-    int i, j, n;
-    cout << "Enter the number of rows: ";
-    cin >> n;
-
-    for (int i = 1; i <= n; i++)
+    // Write Your Code here
+    for (int i = 1; i <= r; i++)
     {
         for (int j = 1; j <= i; j++)
         {
@@ -19,6 +16,15 @@ int main()
         }
         cout << endl;
     }
+}
+
+int main()
+{
+    int row;
+    cout << "Enter the no. of row: ";
+    cin >> row;
+
+    printPattern(row);
 
     return 0;
 }

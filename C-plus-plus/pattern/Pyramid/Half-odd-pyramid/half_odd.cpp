@@ -1,18 +1,16 @@
 /* Author : Chaitaly Kundu
-   Date : 14th june 2021 */
-
-// In inverted half pyramid pattern the row and col number should be same. By default it'll take row number
+   Date : 28th March 2023 */
 
 #include <iostream>
 
 using namespace std;
 
-void printPattern(int r)
+void printPattern(int n)
 {
-    // Write Your Code here
-    for (int i = 1; i <= r; i++)
+    // Write your code here.
+    for (int i = 1; i <= n; i++)
     {
-        for (int j = 1; j <= r - i + 1; j++)
+        for (int j = 1; j <= (2 * i - 1); j++)
         {
             cout << "* ";
         }
@@ -34,11 +32,12 @@ int main()
 /*  O/P:
 
 Enter the no. of row: 5
-* * * * * 
-* * * * 
-* * * 
-* * 
 * 
+* * * 
+* * * * * 
+* * * * * * * 
+* * * * * * * * * 
+
 
 
 */

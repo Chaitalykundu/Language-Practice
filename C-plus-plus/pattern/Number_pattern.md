@@ -1,4 +1,4 @@
-## half pattern
+## 1. half pattern / N-Triangles
 
 ```
 1
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## half pyramid
+## 2. half pyramid
 
 ```
 1
