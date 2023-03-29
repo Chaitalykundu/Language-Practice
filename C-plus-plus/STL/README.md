@@ -18,4 +18,4 @@
 
 * They act on containers and provide means for various operations for the contents of the containers.
 
-<img align="center" alt="stl-components5" src="https://github.com/Chaitalykundu/Language-Practice/blob/master/C-plus-plus/STL/assets/stl-components5.png">
+<img alt="stl-components5" src="https://github.com/Chaitalykundu/Language-Practice/blob/master/C-plus-plus/STL/assets/stl-components5.png" width="50%">
