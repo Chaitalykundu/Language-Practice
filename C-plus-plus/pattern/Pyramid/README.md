@@ -57,7 +57,7 @@
 
 &nbsp;
 
-## 5. Inverted Odd triangle
+## 6. Inverted Odd triangle
 
 ```
 *******
@@ -67,6 +67,40 @@
 ```
 
 &nbsp;
+
+## 7. Diamond
+
+- this is the combination of **_Odd triangle_** and **_Inverted Odd triangle_**
+
+```
+     *
+    ***
+   *****
+  *******
+ *********
+ *********
+  *******
+   *****
+    ***
+     *
+```
+
+&nbsp;
+
+## 8. Rotate triangle
+
+- this is the combination of **_Half pyramid_** and **_Inverted Half pyramid_**
+
+```
+*
+**
+***
+****
+****
+***
+**
+*
+```
 
 &nbsp;
 

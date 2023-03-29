@@ -7,14 +7,14 @@
 using namespace std;
 
 int main(){
-    int row, col;
-    cout << "Enter the no. of row and column: ";
-    cin >> row >> col ;
+    int row;
+    cout << "Enter the no. of row : ";
+    cin >> row  ;
     for(int i=1;i<=row;i++)
 {
-    for(int j=1;j<=col;j++)
+    for(int j=1;j<=row;j++)
     {
-        if(j <= col-i)
+        if(j <= row-i)
             cout << "  ";
         else
             cout << "* ";
@@ -26,8 +26,8 @@ int main(){
 
 /*  O/P:
 
-Enter the no. of row and column: 5
-5
+Enter the no. of row : 5
+
         *
       * *
     * * *
