@@ -17,3 +17,5 @@
 - The algorithm defines a collection of functions specially designed to be used on a range of elements.
 
 * They act on containers and provide means for various operations for the contents of the containers.
+
+<img align="center" alt="stl-components5" src="https://github.com/Chaitalykundu/Language-Practice/blob/master/C-plus-plus/STL/assets/stl-components5.png">
