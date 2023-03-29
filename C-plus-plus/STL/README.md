@@ -18,4 +18,18 @@
 
 * They act on containers and provide means for various operations for the contents of the containers.
 
-<img alt="stl-components5" src="https://github.com/Chaitalykundu/Language-Practice/blob/master/C-plus-plus/STL/assets/stl-components5.png" width="100px">
+<img alt="stl-components5" src="https://github.com/Chaitalykundu/Language-Practice/blob/master/C-plus-plus/STL/assets/stl-components5.png" width="300px">
+
+&nbsp;
+
+&nbsp;
+
+# Containers
+
+- Containers can be described as the objects that hold the data of the same type. Containers are used to implement different data structures for example arrays, list, trees, etc.
+
+* Classification of containers :
+
+  - Sequence containers
+  - Associative containers
+  - Derived containers or Container Adaptors
