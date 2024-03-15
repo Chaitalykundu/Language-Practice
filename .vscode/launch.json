@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chaitaly_kundu/Desktop/Language-Practice/C-plus-plus/Theory/11-STL/01-Pair",
-      "program": "c:/Users/chaitaly_kundu/Desktop/Language-Practice/C-plus-plus/Theory/11-STL/01-Pair/build/Debug/outDebug",
+      "cwd": "c:/Users/chaitaly_kundu/Desktop/Language-Practice/C-plus-plus/Theory/11-STL/02-Vector",
+      "program": "c:/Users/chaitaly_kundu/Desktop/Language-Practice/C-plus-plus/Theory/11-STL/02-Vector/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

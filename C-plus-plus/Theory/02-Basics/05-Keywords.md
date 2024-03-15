@@ -1,12 +1,12 @@
 # Overview
 
-Keywords are the reserved words, have special meanings to the C++ compiler and are always written or typed in short(lower) cases.
+Keywords are the reserved words, have special meanings to the C++ compiler and are always written or typed in lowercases.
 
 - Keywords are words that the language uses for a special purpose, such as `void`, `int`, `public`, etc.
 
 - It can’t be used for a variable name or function name or any other identifiers.
 
-- The total count of reserved keywords is `95`
+- The total count of keywords is `95`
 
 &nbsp;
 
