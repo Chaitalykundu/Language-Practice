@@ -15,6 +15,8 @@
 
 # Description
 
+Programming Language is a way of communicating with computers.
+
 C++ is a mid-leveled object oriented, general-purpose programming language designed for system and application programming and is widely used nowadays for competitive programming.
 
 It has imperative, object-oriented, and generic programming features.
