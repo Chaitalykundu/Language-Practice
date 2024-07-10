@@ -1,3 +1,18 @@
+# Overview
+
+- Description
+- History
+- Features of C++
+- Note
+- Difference between C and C++
+- Strongly vs. weakly typed
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Description
 
 C++ is a mid-leveled object oriented, general-purpose programming language designed for system and application programming and is widely used nowadays for competitive programming.
@@ -29,15 +44,25 @@ C++ provides a lot of features that are given below.
 - Portability (Portability is a characteristic attributed to a computer program if it can be used in an operating systems other than the one in which it was created without requiring major rework)
 
 - Powerful and Fast
+  
 - Rich Library
+
 - Machine Independent but Platform Dependent (compiled programs on Linux won’t run on Windows)
+
 - Mid-level programming language
+
 - Structured programming language
+
 - Object-Oriented
+
 - Case Sensitive
+
 - Compiler Based
+
 - Syntax based language
+
 - Pointers
+
 - Dynamic Memory Management
 
 &nbsp;
