@@ -32,4 +32,12 @@
 
 &nbsp;
 
+# Advantages of C++ Over Other Languages
+
+* Object-Oriented
+* Speed
+* Compiled
+* Pointer Support
+* Closer to Hardware
+
 &nbsp;
