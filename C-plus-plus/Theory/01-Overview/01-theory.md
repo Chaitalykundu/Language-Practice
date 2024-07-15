@@ -3,6 +3,7 @@
 - Description
 - History
 - Features of C++
+- Middle-level language
 - Note
 - Difference between C and C++
 - Strongly vs. weakly typed
@@ -70,6 +71,14 @@ C++ provides a lot of features that are given below.
 &nbsp;
 
 <img src="../../assets/featuresOfCpp.jpg">
+
+&nbsp;
+
+&nbsp;
+
+# Middle-level language
+
+Middle-level language is a computer language in which the instructions are created using symbols such as letters, digits and special characters. 
 
 &nbsp;
 
